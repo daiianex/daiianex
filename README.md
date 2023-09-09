@@ -27,4 +27,4 @@
   
 </div>
 
-![Snake animation](https://github.com/daiianex/daiianex/)
+![Snake animation](https://github.com/daiianex/daiianex/blob/output/github-contribution-grid-snake.svg)
