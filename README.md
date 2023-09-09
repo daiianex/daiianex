@@ -27,4 +27,4 @@
   
 </div>
 
-![Snake animation](https://github.com/daiianex/)
+![Snake animation](https://github.com/daiianex/daiianex/)
